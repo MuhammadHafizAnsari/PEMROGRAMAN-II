@@ -1,8 +1,8 @@
-module hafiz.praktikum6 {
+module hafiz.modul6 {
     requires javafx.controls;
     requires javafx.fxml;
 
 
-    opens hafiz.praktikum6 to javafx.fxml;
-    exports hafiz.praktikum6;
+    opens hafiz.modul6 to javafx.fxml;
+    exports hafiz.modul6;
 }
