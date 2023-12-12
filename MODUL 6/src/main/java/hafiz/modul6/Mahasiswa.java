@@ -1,5 +1,4 @@
 package hafiz.modul6;
-
 public class Mahasiswa {
     private int id;
     private String nama;
